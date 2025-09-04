@@ -1,2 +1,2 @@
 # practica2
-materia tecnología 
+materia tecnología de internet
